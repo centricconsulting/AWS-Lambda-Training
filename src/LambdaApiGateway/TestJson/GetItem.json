@@ -1,0 +1,10 @@
+{
+    "operation": "read",
+    "payload": {
+        "Key": {
+            "id": {
+                "S": "1234ABCD"
+            }
+        }
+    }
+}

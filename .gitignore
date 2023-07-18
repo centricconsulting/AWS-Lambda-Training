@@ -1,4 +1,5 @@
 .vscode
+outputfile.txt
 /test
 /src/LambdaApiGateway/bin
 /src/LambdaApiGateway/obj

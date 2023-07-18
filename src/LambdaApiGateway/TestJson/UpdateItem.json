@@ -1,0 +1,16 @@
+{
+    "operation": "update",
+    "payload": {
+        "Key": {
+            "id": {
+                "S": "1234ABCD"
+            }
+        },
+        "UpdateExpression": "SET trainingtimes = :n",
+        "ExpressionAttributeValues": {
+            ":n": {
+                "S": "10"
+            }
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "operation": "create",
+    "payload": {
+        "Item": {
+            "id": {
+                "S": "1234ABCD"
+            },
+            "trainingtimes": {
+                "N": "5"
+            }
+        }
+    }
+}
